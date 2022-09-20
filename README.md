@@ -1,0 +1,1 @@
+# nhk-news-fetcher-go
