@@ -1,4 +1,4 @@
-# nhk-news-fetcher-go [![Go](https://github.com/nhk-news-web-easy/nhk-news-fetcher-go/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/nhk-news-web-easy/nhk-news-fetcher-go/actions/workflows/build.yml) [![codecov](https://codecov.io/gh/nhk-news-web-easy/nhk-news-fetcher-go/branch/main/graph/badge.svg?token=YCDAGUU5K1)](https://codecov.io/gh/nhk-news-web-easy/nhk-news-fetcher-go)
+# nhk-news-fetcher-go [![Go](https://github.com/nhk-news-web-easy/nhk-news-fetcher-go/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/nhk-news-web-easy/nhk-news-fetcher-go/actions/workflows/build.yml) [![codecov](https://codecov.io/gh/nhk-news-web-easy/nhk-news-fetcher-go/branch/main/graph/badge.svg?token=YCDAGUU5K1)](https://codecov.io/gh/nhk-news-web-easy/nhk-news-fetcher-go) [![Go Report Card](https://goreportcard.com/badge/github.com/nhk-news-web-easy/nhk-news-fetcher-go)](https://goreportcard.com/report/github.com/nhk-news-web-easy/nhk-news-fetcher-go)
 
 Go wrapper of [nhk-easy-api](https://github.com/nhk-news-web-easy/nhk-easy-api).
 
