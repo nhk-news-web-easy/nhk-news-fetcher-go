@@ -1,4 +1,4 @@
-package nhk
+package nhk_fetcher
 
 import (
 	"encoding/json"
