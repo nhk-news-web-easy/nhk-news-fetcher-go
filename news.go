@@ -6,6 +6,7 @@ type News struct {
 	NewsId          string
 	Title           string
 	TitleWithRuby   string
+	Outline         string
 	OutlineWithRuby string
 	Body            string
 	BodyWithoutRuby string
