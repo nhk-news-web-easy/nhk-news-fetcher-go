@@ -9,7 +9,7 @@ type News struct {
 	Outline         string
 	OutlineWithRuby string
 	Body            string
-	BodyWithoutRuby string
+	BodyWithoutHtml string
 	Url             string
 	M3u8Url         string
 	ImageUrl        string

@@ -8,8 +8,8 @@ import (
 )
 
 func TestFetchNews(t *testing.T) {
-	startDate := time.Date(2022, 8, 8, 0, 0, 0, 0, time.UTC)
-	endDate := time.Date(2022, 8, 8, 23, 59, 59, 0, time.UTC)
+	startDate := time.Date(2022, 10, 28, 0, 0, 0, 0, time.UTC)
+	endDate := time.Date(2022, 10, 28, 23, 59, 59, 0, time.UTC)
 	newsList, err := FetchNews(startDate, endDate)
 
 	assert.True(t, len(newsList) > 0)
